@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rizapopal202
 - 👀 I’m interested in improving my skills & learning new things
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on every and all projects.
 
 <!---
