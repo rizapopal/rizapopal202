@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rizapopal202
 - 👀 I’m interested in improving my skills & learning new things
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on every and all projects.
+
 
 <!---
 rizapopal202/rizapopal202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
